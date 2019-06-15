@@ -20,7 +20,7 @@ div {
 
 .header {
     width: 960px;
-    background-color: lightgray;
+    background-color: 'ebebeb';
     color: gray;
     padding: 5px;
     margin: 15px;
@@ -29,7 +29,7 @@ div {
 }
 
 .nav {
-    background-color: lightgray;
+    background-color:'ebebeb';
     color: gray;
     padding: 5px;
     margin: 15px;
@@ -40,7 +40,7 @@ div {
     width: 495px;
    float:left;
     height: 300px;
-    background-color: lightgray;
+    background-color: 'ebebeb';
     color: gray;
     padding: 5px;
     margin: 10px;
@@ -52,12 +52,17 @@ div {
 article {
     color: '#ebebeb';
     background: '#777';
-
+    width: 200px;
+    height: 50px;
+    padding: 5px;
+    text-align: center;
+    
 }
 
 h3 {
     color: '#777';
     background: '#ebebeb';
+}
 
 p {
     color: '#777';
@@ -68,7 +73,7 @@ p {
     width: 394px;
     float:right;
     height: 317px;
-    background-color: lightgray;
+    background-color: 'ebebeb';
     color: gray;
     padding: 5px;
     margin: 10px;
@@ -79,8 +84,8 @@ p {
 
 
 .footer {
-    background-color: lightgray;
-    color: gray;
+    background-color: 'ebebeb';
+    color: '#777';
     padding: 5px;
     margin: 15px;
     text-align: center;
